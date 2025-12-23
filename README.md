@@ -52,7 +52,8 @@ I used this controller: https://www.tindie.com/products/gumslone/neopixel-ws2812
 
 ## Panel setup
 256 leds, GRB, start at top right, serpentine
-Button configured for IO0 button. In Macros, short press set to 1, to activate Playlist 1 which uses toggle function
+LED & Hardware setup: Button 0 GPIO: 0 pushbutton Button 1 unused, IR GPIO unused
+Macros: button 0 short press set to 1, to activate Playlist 1 which uses toggle function
 
 # STL notes:
 I used this 3d print as a base: https://makerworld.com/en/models/122272-16x16-led-matrix-frame-with-diffuser-grid?from=search#profileId-131744
